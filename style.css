@@ -806,7 +806,7 @@ text-decoration-style: solid;
 }
 #homeground{
 
-   width: 1100px;
+   width: 100%;
    height: 300px;
    
 }
@@ -817,12 +817,10 @@ text-decoration-style: solid;
     margin-top: -100px;
 }
 .first_header{
-    font-size: 30px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 20px;
+    margin-left: 0px;
     margin-top: 15px;
-    width: 1100px;
+    width: 100%;
 
 }
 .mother_profile{
@@ -843,12 +841,12 @@ text-decoration-style: solid;
 .profile_works{
     display: block;
     margin-top: -22px;
-    font-size: 30px;
+    font-size: 20px;
 }
 .profile_work{
     display: block;
     margin-top: -22px;
-    font-size: 30px;
+    font-size: 20px;
 }
 .profile_location{
     margin-top: -100px;
@@ -856,7 +854,7 @@ text-decoration-style: solid;
 }
 .icon_container{display: flex;}
 .profile_name{
-    font-size: 35px;
+    font-size: 20px;
     
 }
 .profile_p{
@@ -866,43 +864,42 @@ margin-left: -30px;
 .profile_image{
     margin-left: auto;
     margin-right: auto;
-    height: 800px;
-    width: 800px;
+    height: 200px;
+    width: 200px;
 }
 .vid_background{
-    margin-left: 150px;
+    margin-left: auto;
     margin-right: auto;
-    height: 1200px;
-    width: 800px;
-    font-size: 20px;
+    height: 600px;
+    width: 400px;
+    font-size: 10px;
 }
 .video{
-    height:550px;
-    width: 600px;
-    margin-left: 100px;
-  
+    height:200px;
+    width: 350px;
+    margin-left: 15px;
 }
 .instruction_links{
-margin-top: 19px;
-font-size: 35px;
+margin-top: -9px;
+font-size: 15px;
 margin-left: auto;
 margin-right: auto;
 }
 .instructions_links{
-font-size: 40px;
+font-size: 20px;
 }
 .instructions_links2{
-font-size: 40px;
+font-size: 20px;
 margin-top: -30px;
 }
 .first_hr{
 
-    width: 50px;
+    width: 30px;
 }
 .marquee_background{
-    height: 170px;
-    margin-top: 50px;
-    font-size: 40px;
+    height: 70px;
+    margin-top: 40px;
+    font-size: 20px;
 }
 .first_header2{
     font-size: 19px;
@@ -911,25 +908,23 @@ margin-top: -30px;
     margin-left: 0px;
 }
 .grey_background{
-    width: 1100px;
-    display: block;
-    height: 300px;
-    
+    width: 100%;
+    display: block
 }
 .what_to_do{
-    font-size: 40px;
+    font-size: 20px;
     margin-left: 20px;
 
 }
 .what_to_do2{
     
-    font-size: 35px;
+    font-size: 15px;
 }
 .track_button{
-    height: 70px;
-    width:400px ;
+    height: 30px;
+    width:200px ;
     margin-top: 10px;
-    font-size: 35px;
+    font-size: 15px;
 
     margin-left: 20px;
     float: left;
@@ -938,8 +933,8 @@ margin-top: -30px;
 }
 .container_icons{
     display: block;
-    vertical-align: middle;
-    margin-left: 60%;
+    margin-left: 20%;
+ 
     width:100%;
 }
 .home_home_icon{
@@ -951,13 +946,13 @@ margin-top: -30px;
     
 }
 .home_icon{
-    height: 150px;
-    width: 150px;
+    height: 70px;
+    width: 70px;
     border-radius: 50%;
     margin-left: 70px;
 }
 .p_icon4{
-    margin-left: 70px;
+    margin-left: 40px;
 }
 .icon_container{
     margin-top: -40px;
@@ -969,13 +964,13 @@ margin-top: -30px;
     font-size: 25px;
     height: 30px;
     margin-left: 0px;
-    width: 1100px;
+    width: 100%;
  
     
 }
 .container_table_main{
     display: block;
-    width: 1100px;
+    width: 100%;
     margin-left: 0;
     
     
@@ -984,28 +979,28 @@ margin-top: -30px;
 .container_table{
     display: block;
 
-    width:1100px;
+    width:100%;
     margin-left: 0;
    
     
     
 }
 .top_left{
-    width: 1100px;
-    font-size: 40px;
+    width: 100%;
+    font-size: 20px;
     display: flex;
     
 }
 .top_left2{
     display: flex;
     width: 100%;
-    font-size: 40px;
+    font-size: 20px;
     border-bottom: 1px dashed gray;
     
 }
 .top_right{
     display: flex;
-    font-size: 40px;
+    font-size: 20px;
     width: 100%;
     border-left: none;
     border-bottom: 1px dashed gray;
@@ -1017,97 +1012,77 @@ margin-top: -30px;
     border-bottom: 1px dashed gray;
 }
 .td_p{
-    font-size: 40px;
+    font-size: 20px;
     margin-left: 10px;
   
 }
 .senate{
-    font-size: 25px;
+    font-size: 8px;
 }
 .date{
-    font-size: 20px;
+    font-size: 8px;
 }
 .file{
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
 }
 .above_footer{
     display: block;
-    height: 2500px;
-    font-size: 0px;
-    line-height: 2.5;
-    width: 1100px;
+    height: 750px;
+    font-size: 5px;
+    width: 100%;
 }
 .country{
-    font-size: 35px;
-    margin-left: 30px;
+    font-size: 10px;
 }
 .above_footer_list{
-    font-size: 30px;
-    margin-left: 30px;
-
+    font-size: 8px;
 }
 .above_footer_list2{
-    font-size: 30px;
-    margin-left: 30px;
+    font-size: 8px;
 }
 .above_footer_list3{
-    font-size: 30px;
-    margin-left: 30px;
+    font-size: 8px
 }
 h5{
-    font-size: 30px;
-    margin-top: 0px;
-    margin-left: 30px;
+    font-size: 10px;
     margin-bottom: 15px;
 }
 .third_h5{
     font-size: 10px;
-    margin-left: 30px;
 }
 footer{
-   width: 1100px; 
-   height: 150px;
+   width: 100%; 
 }
 .brands{
     display: none;
 }
 .footer_p{
-    font-size:30px;
+    font-size:15px;
     margin-left: 0px;
     
 }
 .p_icon3{
    
     width: 200px;
-    margin-left: 60px;
 }
 .p_icon2{
   
     width: 200px;
-    margin-left: 90px;
 }
 .p_icon4{
  
     width: 200px;
 }
 .p_icon{
- margin-left: 20px;
+ 
     width: 250px;
 }
 .last{
-    font-size: 30px;
+    font-size: 20px;
     margin-left: 10px;
 }
-.last2{font-size: 30px;
+.last2{font-size: 20px;
 margin-left: 10px;
-}
-.twitter_button{
-    height:80px ;
-   
-    width:300px;
-}
-.follow_button{
-    font-size: 35px;
 }
 }
